@@ -1,5 +1,0 @@
-This is a simple test file
-used with testing of github
-
-Prior line removed
-Line removed again
