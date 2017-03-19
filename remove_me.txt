@@ -1,4 +1,4 @@
 This is a simple test file
 used with testing of github
 
-This is an added line to the file
+Prior line removed
